@@ -1,2 +1,5 @@
-Formula+ calculator includes Google play services sdk which can collect annonymous information, such as Device Information, Location information, Logging information and app activity information.
+Formula+ calculator includes Google play services sdk which can collect annonymous information, such as Device Information, Location information, Logging information and app activity information. 
 Formula+ Calculator uses google service such as analytics, crashlytics and admob. These services help us improve the app functionality and provide us with inside into user daily usage and interaction. With these data, we can optimize and improve fast.
+The data collected by these services is annonymous, but cannot be accessed, modify and deleted by the user. Formula+ Calculator does not gurantee the safety of the data collected. 
+
+Please refer to google privacy policy at "https://policies.google.com/privacy", to understand how these services impact on the safety of your own data.
