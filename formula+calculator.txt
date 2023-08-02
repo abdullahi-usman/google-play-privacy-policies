@@ -1,11 +1,27 @@
 Formula+ calculator includes Google play services sdk which can collect annonymous information, such as Device Information, Location information, Logging information and app activity information. 
 Formula+ Calculator uses google service such as analytics, crashlytics and admob. These services help us improve the app functionality and provide us with inside into user daily usage and interaction. With these data, we can optimize and improve fast.
-The data collected by these services is annonymous, but cannot be accessed, modify and deleted by the user. Formula+ Calculator does not gurantee the safety of the data collected.
+
+The data collected by these services is annonymous, but cannot be accessed, modify and deleted by the user.
+
+All Google products are built with strong security features that continuously protect your information. The insights google gain from maintaining our services help google detect and automatically block security threats from ever reaching you. And if google do detect something risky that they think you should know about, they’ll notify us and you, and help guide us through steps to stay better protected.
+
+Google work hard to protect us and them from unauthorized access, alteration, disclosure, or destruction of information google hold, including:
+
+- Encryption to keep your data private while in transit
+- Reviewing the information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems
+- Restricting access to your personal information to Google employees, contractors, and agents who need that information in order to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
 Please refer to google privacy policy at "https://policies.google.com/privacy", to understand how these services impact on the safety of your own data.
 
-Link to the privacy policy of third-party service providers used by Formula+ Calculator
+Firebase services encrypt data in transit using HTTPS and logically isolate customer data.
+To keep personal data safe, Firebase employs extensive security measures to minimize access:
+- Firebase restricts access to a select employees who have a business purpose to access personal data.
+- Firebase logs employee access to systems that contain personal data.
+- Firebase only permits access to personal data by employees who sign in with Google Sign-In and 2-factor authentication.
+
+Further link to the privacy policy of other third-party service providers used by Formula+ Calculator
 Google play services -  https://www.google.com/policies/privacy/
 Admob -  https://support.google.com/admob/answer/6128543?hl=en
-Firebase Analytics -  https://firebase.google.com/policies/analytics
+Firebase Analytics -  https://firebase.google.com/support/privacy/
 Firebase Crashlytics -  https://firebase.google.com/support/privacy/
+
